@@ -1,5 +1,5 @@
 import React from "react";
-import confetti from "../assets/Confetti.mov";
+// import confetti from "../assets/Confetti.mov";
 
 const LoginHandler = () => {
   const navigate = useNavigate();
