@@ -1,8 +1,8 @@
 import React from "react";
-import devConnect_dora from "../assets/DevConnect_dora.png";
-import signupDora from "../assets/signupDora.png";
+// import devConnect_dora from "../assets/DevConnect_dora.png";
+// import signupDora from "../assets/signupDora.png";
 import Lottie from "lottie-react";
-import loginAnimation from "../assets/Login.json";
+// import loginAnimation from "../assets/Login.json";
 import { FaArrowRightLong } from "react-icons/fa6";
 import cat from "../assets/Cat Movement.json";
 import WhySection from "../components/WhySection";
